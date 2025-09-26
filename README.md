@@ -32,8 +32,9 @@ Welcome to the Real-Time Sign Language Interpreter! This project uses machine le
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/sign-language-interpreter.git
+   git clone https://github.com/JaiminPatel345/sign_language_interpreter.git
    ```
+   
 2. Start a virtual environment
    ```
    python3 -m venv .venv
@@ -72,14 +73,9 @@ Welcome to the Real-Time Sign Language Interpreter! This project uses machine le
 
 ## Acknowledgments
 
-This project is inspired by the desire to make communication more accessible and inclusive for the deaf community.
+This project is inspired by project of laplaces42 the desire to make communication more accessible and inclusive for the deaf community.
 
-## Contact
 
-If you have any questions or feedback, feel free to reach out!
-
-- **Email:** [laplace.sallis@gmail.com](mailto:laplace.sallis@gmail.com)
-- **LinkedIn:** [LaPlace Sallis IV](https://www.linkedin.com/in/laplace-sallis-iv-bbbb602a8/)
-- **GitHub:** [laplaces42](https://github.com/laplaces42)
+- **Portfolio:** [jaimin-detroja.tech](https://portfolio.jaimin-detroja.tech)
 
 You can also open an issue on this repository if you have any questions or need support.
